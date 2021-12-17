@@ -39,6 +39,30 @@
       "image": "./assets/ramen/kojiro.jpg",
       "rating": 6,
       "comment": "Perfect for a cold night."
+    },
+    {
+      "name": "AJ's ramen",
+      "restaurant": "AJ's restaurant",
+      "image": "./assets/ramen/kojiro.jpg",
+      "rating": "10",
+      "comment": "Very nice!",
+      "id": 6
+    },
+    {
+      "name": "Bless",
+      "restaurant": "Bless's restaurant",
+      "image": "./assets/ramen/gyukotsu.jpg",
+      "rating": "10",
+      "comment": "very good!",
+      "id": 7
+    },
+    {
+      "name": "DJ",
+      "restaurant": "Dj's restaurant",
+      "image": "./assets/ramen/gyukotsu.jpg",
+      "rating": "10",
+      "comment": "wowie!",
+      "id": 8
     }
   ]
 }
